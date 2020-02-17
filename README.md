@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://dronkarpenko.github.io/rsschool-cv/cv
